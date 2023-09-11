@@ -11,6 +11,8 @@ The cognitive escape reinforcement learning (CERL) method is applied to two comp
 
 
 2. For the minigrid experiments,
+   
    install the minigrid environment, please refer to:  https://github.com/lcswillems/rl-starter-files
+   
    then execute the provided shell script: bash uncertainty_experiment.sh
 
